@@ -4,7 +4,7 @@ setup(
     name='my_custom_app',
     version='0.0.1',
     description='Custom app for ERPNext',
-    author='Nama Kamu',
+    author='Bayu Krisna',
     packages=find_packages(),
     install_requires=['frappe'],
 )
